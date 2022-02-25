@@ -17,5 +17,4 @@ As a huge Typescript fanatic, I have a passion for writing clean, scalable and r
 - (Apr 2019 - Nov 2019) Full Stack Developer
 - (Nov 2019 - Jan 2021) Frontend Developer
 - (Jan 2021 - Jan 2022) Senior Frontend Developer
-- (Jan 2022 - Present) Frontend Team Lead
-
+- (Jan 2022 - Present) Lead Frontend Developer
